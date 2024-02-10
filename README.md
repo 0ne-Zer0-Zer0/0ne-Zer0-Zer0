@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0ne-Zer0-Zer0
-- 👀 I’m interested in learning new things and am enthusiastic in cloud computing and cybersecurity.
+- 👀 I’m interested in learning new things and enthusiastic about Machine Learning, Deep Learning, Reinforcement Learning, and Artificial Intelligence.
 - 🌱 I’m currently learning whatever I can get my hands on.
-- 💞️ I’m looking to collaborate on Google Summer of Code especially for a cloud computing organization.
+- 💞️ I want to collaborate on Google Summer of Code, especially for a data science organization.
 - 📫 How to reach me :
   mail: param98596@gmail.com
 
